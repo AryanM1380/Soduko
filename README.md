@@ -1,4 +1,4 @@
-```
+
 # Sudoku Solver using Backtracking
 
 This is a Python implementation of a Sudoku solver that uses the backtracking technique to find a solution for a given Sudoku puzzle. Sudoku is a popular number-placement puzzle where the objective is to fill a 9x9 grid with digits from 1 to 9, following specific rules. Each row, each column, and each of the nine 3x3 subgrids should contain all the digits from 1 to 9 without repetition.
@@ -69,13 +69,9 @@ Sudoku solved:
 3 4 5 | 2 8 6 | 1 7 9
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use and modify this Sudoku solver as needed. If you find any issues or have suggestions for improvement, please feel free to create an issue or submit a pull request.
 
 Happy Sudoku solving!
-```
 
-In the README, I have provided an overview of the solver, explained how it works, and provided instructions on how to use it. Additionally, I included an example puzzle and the expected output when running the solver with the provided puzzle. Make sure to customize the README as needed to fit your project and add any specific details you find relevant.
+
